@@ -1,8 +1,14 @@
-#absolutecards{
-    position: absolute;
-    top: 2em;
-    right: 0px;
-    padding:0.5em;
+#absolutecardsr{
+  position: absolute;
+  top: 2em;
+  right: 0px;
+  padding:0.5em;
+}
+#absolutecardsl{
+  position: absolute;
+  top: 2em;
+  left: 0px;
+  padding:0.5em;
 }
 .card{
   margin-bottom: 1em;
